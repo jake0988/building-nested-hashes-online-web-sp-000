@@ -12,7 +12,8 @@ def third_challenge
       :hero => {
         { name: "Romeo", age: "15", status: "alive" },
         },
-      :hero_friends => []
+      :hero_friends => [ { na
+        me: "Benvolio", age: "17", attitude "worrie"  }, ]
    },
    :capulet => {
       :patriarch =>
